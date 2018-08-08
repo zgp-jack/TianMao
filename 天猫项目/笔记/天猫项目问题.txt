@@ -1,0 +1,19 @@
+
+nav中span、a标签之间的间隙、
+
+gap间隙线为啥不能移动
+
+vertical-align？
+
+/*vertical-align: text-bottom;*/
+
+侧边栏的淡入刷新有bug
+input默认字体改颜色
+input tpye为text时点击输入框有默认颜色
+
+
+content标签问题不能选择？？
+
+
+修改内容加图标
+
